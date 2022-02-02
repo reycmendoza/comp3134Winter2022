@@ -1,0 +1,31 @@
+Reyc Mendoza@DESKTOP-HMBPL28 MINGW64 ~
+$ tracert georgebrown.ca
+
+Tracing route to georgebrown.ca [99.79.139.11]
+over a maximum of 30 hops:
+
+  1     9 ms     1 ms     1 ms  mynetwork.home [192.168.2.1]
+  2    12 ms    12 ms     2 ms  10.11.7.129
+  3     *        *        *     Request timed out.
+  4     8 ms     7 ms     7 ms  cr01-toroon63zda_0/2/0/9_lr4.net.bell.ca [142.124.126.244]
+  5     9 ms     7 ms     7 ms  tcore3-toronto63-bundle-ether44.net.bell.ca [142.124.127.156]
+  6     *        *        5 ms  tcore1-torontoxn_ae2.net.bell.ca [64.230.51.152]
+  7     5 ms     4 ms     5 ms  bx3-torontoxn_hundredgige0-1-0-0.net.bell.ca [64.230.97.145]
+  8     3 ms     7 ms     3 ms  99.82.178.222
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12    13 ms    15 ms    15 ms  52.94.82.150
+ 13    10 ms    11 ms    15 ms  52.94.83.159
+ 14    16 ms    15 ms    13 ms  52.94.83.142
+ 15    23 ms    16 ms    14 ms  52.94.82.95
+ 16    24 ms    19 ms    15 ms  52.94.81.6
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23    14 ms    13 ms    13 ms  ec2-99-79-139-11.ca-central-1.compute.amazonaws.com [99.79.139.11]
+
+Trace complete.

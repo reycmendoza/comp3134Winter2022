@@ -1,0 +1,251 @@
+Domain Information
+Domain:youtube.com
+Registrar:MarkMonitor Inc.
+Registered On:2005-02-15
+Expires On:2023-02-15
+Updated On:2022-01-14
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com
+
+Registrant Contact
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+
+Administrative Contact
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+
+Technical Contact
+Organization:Google LLC
+State:CA
+Country:US
+Email:Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+
+-------------------------------------------------------------------------------------
+
+Domain Information
+Domain:facebook.com
+Registrar:RegistrarSafe, LLC
+Registered On:1997-03-29
+Expires On:2031-03-30
+Updated On:2022-01-26
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+Registrant Contact
+Name:Domain Admin
+Organization:Meta Platforms, Inc.
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Fax:+1.6505434800
+Email:email@fb.com
+
+Administrative Contact
+Name:Domain Admin
+Organization:Meta Platforms, Inc.
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Fax:+1.6505434800
+Email:email@fb.com
+
+Technical Contact
+Name:Domain Admin
+Organization:Meta Platforms, Inc.
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Fax:+1.6505434800
+Email:email@fb.com
+
+-------------------------------------------------------------------------------------
+
+Domain Information
+Domain:twitter.com
+Registrar:CSC Corporate Domains, Inc.
+Registered On:2000-01-21
+Expires On:2023-01-21
+Updated On:2022-01-17
+Status:clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.r06.twtrdns.net
+b.r06.twtrdns.net
+c.r06.twtrdns.net
+d.r06.twtrdns.net
+d01-01.ns.twtrdns.net
+d01-02.ns.twtrdns.net
+ns3.p34.dynect.net
+ns4.p34.dynect.net
+
+Registrant Contact
+Name:Twitter, Inc.
+Organization:Twitter, Inc.
+Street:1355 Market Street
+City:San Francisco
+State:CA
+Postal Code:94103
+Country:US
+Phone:+1.4152229670
+Fax:+1.4152220922
+Email:email@twitter.com
+
+Administrative Contact
+Name:Domain Admin
+Organization:Twitter, Inc.
+Street:1355 Market Street
+City:San Francisco
+State:CA
+Postal Code:94103
+Country:US
+Phone:+1.4152229670
+Fax:+1.4152220922
+Email:email@twitter.com
+
+Technical Contact
+Name:Tech Admin
+Organization:Twitter, Inc.
+Street:1355 Market Street
+City:San Francisco
+State:CA
+Postal Code:94103
+Country:US
+Phone:+1.4152229670
+Fax:+1.4152220922
+Email:email@twitter.com
+
+-------------------------------------------------------------------------------------
+
+Domain:netflix.com
+Registrar:MarkMonitor Inc.
+Registered On:1997-11-11
+Expires On:2023-11-10
+Updated On:2021-10-09
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:ns-1372.awsdns-43.org
+ns-1984.awsdns-56.co.uk
+ns-659.awsdns-18.net
+ns-81.awsdns-10.com
+
+Registrant Contact
+Name:Domain Administrator
+Organization:Netflix, Inc.
+Street:100 Winchester Circle,
+City:Los Gatos
+State:CA
+Postal Code:95032
+Country:US
+Phone:+1.4085403700
+Fax:+1.4085403737
+Email:email@netflix.com
+
+Administrative Contact
+Name:Domain Administrator
+Organization:Netflix, Inc.
+Street:100 Winchester Circle,
+City:Los Gatos
+State:CA
+Postal Code:95032
+Country:US
+Phone:+1.4085403700
+Fax:+1.4085403737
+Email:email@netflix.com
+
+Technical Contact
+Name:Domain Administrator
+Organization:Netflix, Inc.
+Street:100 Winchester Circle,
+City:Los Gatos
+State:CA
+Postal Code:95032
+Country:US
+Phone:+1.4085403700
+Fax:+1.4085403737
+Email:email@netflix.com
+-------------------------------------------------------------------------------------
+
+Domain Information
+Domain:instagram.com
+Registrar:RegistrarSafe, LLC
+Registered On:2004-06-04
+Expires On:2031-06-04
+Updated On:2021-11-08
+Status:clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:a.ns.instagram.com
+b.ns.instagram.com
+c.ns.instagram.com
+d.ns.instagram.com
+
+Registrant Contact
+Name:Domain Admin
+Organization:Instagram LLC
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Email:email@fb.com
+
+Administrative Contact
+Name:Domain Admin
+Organization:Instagram LLC
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Email:email@fb.com
+
+Technical Contact
+Name:Domain Admin
+Organization:Instagram LLC
+Street:1601 Willow Rd
+City:Menlo Park
+State:CA
+Postal Code:94025
+Country:US
+Phone:+1.6505434800
+Email:email@fb.com

@@ -1,0 +1,64 @@
+Checking Domain Name
+
+Domain Name: riotgames.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 192.237.224.60
+Geolocation: US (United States), TX, Texas, 78218 San Antonio - Google Maps
+Reverse DNS entry: not found
+
+-------------------------------------------------------------------------------------
+
+Checking Domain Name
+
+Domain Name: store.steampowered.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 184.29.128.193
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+Reverse DNS: a184-29-128-193.deploy.static.akamaitechnologies.com
+
+-------------------------------------------------------------------------------------
+
+Checking Domain Name
+
+Domain Name: tiktok.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 13.225.63.24
+Geolocation: US (United States), CT, Connecticut, 06850 Norwalk - Google Maps
+Reverse DNS: server-13-225-63-24.ewr53.r.cloudfront.net
+
+-------------------------------------------------------------------------------------
+
+Checking Domain Name
+
+Domain Name: amazon.com
+Top Level Domain: COM (Commercial TLD)
+
+DNS Lookup
+
+IP Address: 176.32.103.205
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn - Google Maps
+Reverse DNS entry: not found
+
+-------------------------------------------------------------------------------------
+
+Checking Domain Name
+
+Domain Name: en.wikipedia.org
+Top Level Domain: ORG (Organization)
+
+DNS Lookup
+
+IP Address: 208.80.154.224
+Geolocation: US (United States), CA, California, 94105 San Francisco - Google Maps
+Reverse DNS: text-lb.eqiad.wikimedia.org
+
+
