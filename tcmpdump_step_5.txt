@@ -1,0 +1,55 @@
+root@comp3134-intro-to-cyber-security:~# tcpdump -XX -i eth0
+
+        0x00b0:  c24f 5392 87e0 3f9f 073b c865 94d1 5599  .OS...?..;.e..U.
+        0x00c0:  bf31 a4c7 82a8 a9fc 6ea3 0751 bef7 8073  .1......n..Q...s
+        0x00d0:  a66e 5751 cd01 3136 db76 1585 6ac2 9b03  .nWQ..16.v..j...
+        0x00e0:  6b27 a313 3dd9 58e6 b344 bcf9 ea75 0762  k'..=.X..D...u.b
+        0x00f0:  229b 1106 15f5 5530 adc0 d5ed 8fb5 b522  ".....U0......."
+        0x0100:  ef24 437f 2cb0 5dde 66b2 7481 0905 bee6  .$C.,.].f.t.....
+        0x0110:  5eca bb9b 44c7 d699 8b22 a753 ff7a 9c8b  ^...D....".S.z..
+        0x0120:  a10c 4159 463b 8faa 1c9c 65f5 f697 6db6  ..AYF;....e...m.
+        0x0130:  1238 0e8d fbbf 5817 d276 2d4b 2f28 81ea  .8....X..v-K/(..
+        0x0140:  b0dd 90b9 c472 23fb 5421 c080 bc4d 0b87  .....r#.T!...M..
+        0x0150:  3887 0cff 8970 649b 0b7c 143e da07 bf5a  8....pd..|.>...Z
+        0x0160:  f7b5 6506 1935 d4eb 616c cedd 253b b2f6  ..e..5..al..%;..
+        0x0170:  2798 bd07 55a4 7012 0526 d154 7b3a 8ea1  '...U.p..&.T{:..
+        0x0180:  0677 727b a46c 9299 d59a 8900 5506 ddb4  .wr{.l......U...
+        0x0190:  dd34 7bad 9602 1aa3 6e5d f42e 893a 4ab5  .4{.....n]...:J.
+        0x01a0:  8917 fffa 282d 5a9a 52ea 8166 2916 fd99  ....(-Z.R..f)...
+        0x01b0:  a0a3 6c46 1f91 82b8 6333 5e96 8188 724a  ..lF....c3^...rJ
+        0x01c0:  dc1c 3dd6 300e d023 0ce5 c054 6317 0b44  ..=.0..#...Tc..D
+        0x01d0:  a175 17ff b8a1 bb08 6f5d baae 78e9 e356  .u......o]..x..V
+        0x01e0:  7001 4de8 9fba ab8f 9f74 9361 ce1a 8399  p.M......t.a....
+        0x01f0:  59eb 9e54 e84e 8ede 9d61 15a8 79e0 fcbb  Y..T.N...a..y...
+        0x0200:  2da1                                     -.
+03:07:32.976753 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon6128w-grc-45-184-148-29-143.dsl.bell.ca.59515: Flags [P.], seq 9986248:9986668, ack 5653, win 501, length 420
+        0x0000:  fe00 0000 0101 2ec6 0898 7d0e 0800 4510  ..........}...E.
+        0x0010:  01cc f957 4000 4006 ad5c 8fc6 2c7e b894  ...W@.@..\..,~..
+        0x0020:  1d8f 0016 e87b ec3e e53f 4d79 7e04 5018  .....{.>.?My~.P.
+        0x0030:  01f5 9426 0000 85f7 a4cb ae29 71af d9c7  ...&.......)q...
+        0x0040:  2dfe f2c5 8b76 d816 d585 29b6 c196 117a  -....v....)....z
+        0x0050:  256f 1fd3 c458 12b4 efdd f911 90ff 72d4  %o...X........r.
+        0x0060:  adbb 4903 b17a 5f21 398a ca9a dbcb b72f  ..I..z_!9....../
+        0x0070:  b07a 1316 35e4 1b55 c9d5 408d 73aa f05d  .z..5..U..@.s..]
+        0x0080:  3b55 3d40 f426 5fbf cf71 cb5b e910 3339  ;U=@.&_..q.[..39
+        0x0090:  cab3 02f9 fd45 fed5 6eb1 7ab5 512a 8fb6  .....E..n.z.Q*..
+        0x00a0:  5c43 c210 f7e1 37bc 1e1e 4c10 c5aa d59a  \C....7...L.....
+        0x00b0:  084d 5522 680a 19bf d234 1403 6a70 f322  .MU"h....4..jp."
+        0x00c0:  f079 0bae 1727 6307 2959 8fb5 9e3a 5e16  .y...'c.)Y...:^.
+        0x00d0:  e4f8 41c3 f29f 67a8 39f8 4b0f 0834 9f4d  ..A...g.9.K..4.M
+        0x00e0:  32c6 1794 488c 4649 36c3 1d2b 7d4e 35cf  2...H.FI6..+}N5.
+        0x00f0:  5253 db19 ea07 8366 2151 434c 7186 ead8  RS.....f!QCLq...
+        0x0100:  ea2f b46f b9e1 b3ab 0543 b9fb d701 e651  ./.o.....C.....Q
+        0x0110:  8655 4be3 93f7 cb19 6762 df00 1d53 54bd  .UK.....gb...ST.
+        0x0120:  fc42 804a f645 c0b8 8aa7 b5b7 058b 1d98  .B.J.E..........
+        0x0130:  5764 4a3b 7743 2a1a 2edc 1590 6fd4 4b59  WdJ;wC*.....o.KY
+        0x0140:  b6a1 8f71 ff7f b2df a8b4 d563 e351 db1e  ...q.......c.Q..
+        0x0150:  4967 479e e94c 368b cf8e a533 cb06 b35c  IgG..L6....3...\
+        0x0160:  d86f 6d56 e586 fcce e5e2 033d 5b43 645b  .omV.......=[Cd[
+        0x0170:  abfa f480 3a17 75d7 871f 6798 a412 e249  ....:.u...g....I
+        0x0180:  eeec fdcc dba3 fcd4 bcfb b6eb c991 c137  ...............7
+        0x0190:  c23d 59f6 1f8b 56da dd4f 30be 2e20 1ba1  .=Y...V..O0.....
+        0x01a0:  fca9 d50c 87d5 4591 a972 31ed 3e8e a2eb  ......E..r1.>...
+        0x01b0:  bbac 9fb2 55b5 9243 c39d 386f 3737 63c5  ....U..C..8o77c.
+        0x01c0:  a1a1 82dc ff13 a410 81e2 a603 63bc 27db  ............c.'.
+        0x01d0:  ebc6 8fea f050 627c 4036                 .....Pb|@6
