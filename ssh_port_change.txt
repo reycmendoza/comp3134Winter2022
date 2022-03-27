@@ -1,0 +1,2 @@
+ufw allow 2222/tcp
+ssh -p 2222 root@143.198.44.126
