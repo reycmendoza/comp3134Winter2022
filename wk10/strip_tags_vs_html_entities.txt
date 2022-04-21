@@ -1,0 +1,19 @@
+The strip_tag function removes any tag in any given string with the exception of the tag of your choosing, while the html entities 
+shows the value in html format.
+
+
+**** My code for sending_info_to_app_2.php *********
+<form method="get">
+ <input name="q" placeholder="Enter Text">
+ <br/>
+ <input type="submit" value="Go">
+</form>
+
+<?php
+$output = $_GET['q'];
+$replace = str_ireplace("script", "html", $output);
+$strip = strip_tags($output, '');
+
+echo "You have searched " . $strip;
+?>
+  

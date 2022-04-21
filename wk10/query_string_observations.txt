@@ -1,0 +1,6 @@
+1) It searches and shows the typed english word in the form
+2) It searches and shows the typed english word in the URL, but since its an invalid english word, it shows "no results found
+for " typed word. The result also goes to the noresult section
+3) It searches and shows the result for "<script>alert(%27hello%27)</script>", and since it not an invalid english word, it doesn't show 
+"no result found for " typed word. The result also goes to the noresult section 
+ 4) it shows the same result at number 3. 
