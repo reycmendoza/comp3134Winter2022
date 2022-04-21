@@ -1,0 +1,42 @@
+root@comp3134-intro-to-cyber-security:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+03:09:05.815098 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon6128w-grc-45-184-148-29-143.dsl.bell.ca.59515: Flags [P.], seq 3964433263:3964433307, ack 1299808712, win 501, length 44
+03:09:05.815165 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon6128w-grc-45-184-148-29-143.dsl.bell.ca.59515: Flags [P.], seq 44:152, ack 1, win 501, length 108
+03:09:05.815310 IP comp3134-intro-to-cyber-security.ssh > bras-base-toroon6128w-grc-45-184-148-29-143.dsl.bell.ca.59515: Flags [P.], seq 152:188, ack 1, win 501, length 36
+03:09:05.820788 IP bras-base-toroon6128w-grc-45-184-148-29-143.dsl.bell.ca.59515 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 188, win 1022, length 0
+03:09:13.183189 IP 139-162-28-131.ip.linodeusercontent.com.14960 > comp3134-intro-to-cyber-security.telnet: Flags [S], seq 2412129406, win 54400, length 0
+03:09:13.313098 IP 139-162-28-131.ip.linodeusercontent.com.14960 > comp3134-intro-to-cyber-security.telnet: Flags [S], seq 2412129406, win 54400, length 0
+03:09:16.912517 IP 139-162-28-131.ip.linodeusercontent.com.14960 > comp3134-intro-to-cyber-security.telnet: Flags [S], seq 2412129406, win 54400, length 0
+03:09:17.831458 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [S], seq 3191421474, win 29200, options [mss 1460,sackOK,TS val 281730544 ecr 0,nop,wscale 7], length 0
+03:09:17.831539 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [S.], seq 3792670077, ack 3191421475, win 65160, options [mss 1460,sackOK,TS val 1261059268 ecr 281730544,nop,wscale 7], length 0
+03:09:18.067378 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 281730781 ecr 1261059268], length 0
+03:09:18.077500 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [P.], seq 1:42, ack 1, win 510, options [nop,nop,TS val 1261059514 ecr 281730781], length 41
+03:09:18.266101 IP comp3134-intro-to-cyber-security.ssh > 49.88.112.75.12255: Flags [F.], seq 3027045457, ack 3790654844, win 503, options [nop,nop,TS val 1460421947 ecr 2753716545], length 0
+03:09:18.312250 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 42, win 229, options [nop,nop,TS val 281731026 ecr 1261059514], length 0
+03:09:18.319482 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 1:22, ack 42, win 229, options [nop,nop,TS val 281731033 ecr 1261059514], length 21
+03:09:18.319525 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [.], ack 22, win 510, options [nop,nop,TS val 1261059756 ecr 281731033], length 0
+03:09:18.321008 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [P.], seq 42:1098, ack 22, win 510, options [nop,nop,TS val 1261059758 ecr 281731033], length 1056
+03:09:18.563332 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 22:462, ack 1098, win 245, options [nop,nop,TS val 281731276 ecr 1261059758], length 440
+03:09:18.563391 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [.], ack 462, win 507, options [nop,nop,TS val 1261060000 ecr 281731276], length 0
+03:09:18.798498 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 462:510, ack 1098, win 245, options [nop,nop,TS val 281731512 ecr 1261060000], length 48
+03:09:18.798542 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [.], ack 510, win 507, options [nop,nop,TS val 1261060235 ecr 281731512], length 0
+03:09:18.804051 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [P.], seq 1098:1378, ack 510, win 507, options [nop,nop,TS val 1261060241 ecr 281731512], length 280
+03:09:19.046324 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 510:526, ack 1378, win 262, options [nop,nop,TS val 281731760 ecr 1261060241], length 16
+03:09:19.046384 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [.], ack 526, win 507, options [nop,nop,TS val 1261060483 ecr 281731760], length 0
+03:09:19.281308 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 526:578, ack 1378, win 262, options [nop,nop,TS val 281731995 ecr 1261060483], length 52
+03:09:19.281351 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [.], ack 578, win 507, options [nop,nop,TS val 1261060718 ecr 281731995], length 0
+03:09:19.281495 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [P.], seq 1378:1430, ack 578, win 507, options [nop,nop,TS val 1261060718 ecr 281731995], length 52
+03:09:19.520330 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 578:662, ack 1430, win 262, options [nop,nop,TS val 281732234 ecr 1261060718], length 84
+03:09:19.561460 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [.], ack 662, win 507, options [nop,nop,TS val 1261060998 ecr 281732234], length 0
+03:09:19.696428 IP 46.19.139.18.47607 > comp3134-intro-to-cyber-security.ssh: Flags [S], seq 2840802142, win 65535, length 0
+03:09:19.696489 IP comp3134-intro-to-cyber-security.ssh > 46.19.139.18.47607: Flags [S.], seq 3594691707, ack 2840802143, win 64240, options [mss 1460], length 0
+03:09:19.795153 IP 46.19.139.18.47607 > comp3134-intro-to-cyber-security.ssh: Flags [R], seq 2840802143, win 0, length 0
+03:09:23.163152 IP 139-162-28-131.ip.linodeusercontent.com.14960 > comp3134-intro-to-cyber-security.telnet: Flags [S], seq 2412129406, win 54400, length 0
+03:09:23.209106 IP 68.183.65.41.56305 > comp3134-intro-to-cyber-security.30050: Flags [S], seq 3600211888, win 1024, length 0
+03:09:23.906751 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [P.], seq 1430:1498, ack 662, win 507, options [nop,nop,TS val 1261065343 ecr 281732234], length 68
+03:09:24.145330 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [P.], seq 662:714, ack 1498, win 262, options [nop,nop,TS val 281736859 ecr 1261065343], length 52
+03:09:24.145390 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [.], ack 714, win 507, options [nop,nop,TS val 1261065582 ecr 281736859], length 0
+03:09:24.145430 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [F.], seq 714, ack 1498, win 262, options [nop,nop,TS val 281736859 ecr 1261065343], length 0
+03:09:24.146710 IP comp3134-intro-to-cyber-security.ssh > 183.214.86.14.37676: Flags [F.], seq 1498, ack 715, win 507, options [nop,nop,TS val 1261065583 ecr 281736859], length 0
+03:09:24.381300 IP 183.214.86.14.37676 > comp3134-intro-to-cyber-security.ssh: Flags [.], ack 1499, win 262, options [nop,nop,TS val 281737095 ecr 1261065583], length 0
+03:09:26.280917 IP 139-162-28-131.ip.linodeusercontent.com.14960 > comp3134-intro-to-cyber-security.telnet: Flags [S], seq 2412129406, win 54400, length 0
